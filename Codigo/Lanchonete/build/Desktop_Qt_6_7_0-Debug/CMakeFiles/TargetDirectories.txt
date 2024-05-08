@@ -1,0 +1,8 @@
+/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/Lanchonete.dir
+/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/edit_cache.dir
+/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/list_install_components.dir
+/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install.dir
+/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install/local.dir
+/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install/strip.dir
+/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/Lanchonete_autogen.dir

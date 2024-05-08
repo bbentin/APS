@@ -1,0 +1,89 @@
+
+Projeto:Sistema de estoque e comandas de uma lanchonete.
+
+
+Apresentação do projeto:
+
+    O projeto deve criar um sistema de logística e auxílio para uma lanchonete e seus trabalhadores. Substituindo o antigo sistema de pedidos em papel e o inexistente controle de estoque.
+
+
+Casos de Uso:
+
+    Funcionário cadastrando produtos no estoque. - OK
+    Funcionário retirando produtos do estoque. - OK
+    Atendente realizando uma venda. - OK
+    Atendente cadastrando cliente. - OK
+    Funcionário consumindo produtos - OK
+    Funcionário adicionando produtos a um pedido - OK
+    Funcionário removendo de produtos em um pedido. - OK
+    Funcionário cancelando um pedido. - OK
+    Usuario verifica dados de um produto. - OK
+    Usuário verifica quantidade no estoque. - OK
+    Gerente abre o caixa do dia - OK
+    Gerente fecha o caixa do dia. - OK
+    Cadastro de novo funcionario. - OK
+    Remoção de funcionario. - OK
+    Cozinheiro informando que o pedido está pronto. - OK
+    Registrar pedido realizado - OK
+    
+Requisitos Funcionais:
+    
+    Cadastro de produtos
+    Retirada de produtos
+    Abertura de pedido
+    Encerramento de pedido
+    Venda contabilizada
+    Exibir preço de um produto.
+    Exibir quantidade de um produto no estoque
+    Contabilizar ganhos do dia
+    Contabilizar dinheiro disponível ao inicio do dia
+    O gerente pode cadastrar de novo funcionário
+    O gerente pode reemover um funcionário
+    Os funcionários requisitam apoio do gerente.
+    Os funcionarios podem consultar pedidos.
+
+
+Requisitos não Funcionais:
+
+As consultas ao banco de dados não devem ultrapassar 3 segundos.
+O Atendente pode adicionar itens a um pedido já existente.
+Qualquer pedido aberto pode ser encerrado.
+Qualquer produto pode ser cadastrado a qualquer momento.
+Um pedido só pode ser realizado após a abertura do caixa.
+O pedido não pode ser aberto sem nenhum item cadastrado.
+Ao encerrar um pedido, ele será contabilizado como venda.
+O preço do produto só será exibido se ele for comercializável
+AS vendas serão somadas para contabilizar os ganhos do dia.
+Será removido do montante um valor para abertura de caixa.
+
+
+Restrições de Projeto:
+
+Usar qt para desenvolvimento da interface
+Usar banco de dados baseado em SQL.
+
+
+Requisitos de Experiência do usuário:
+
+Os atendentes devem achar com facilidade os itens na interface
+Os cozinheiros devem conseguir ver os pedidos de forma clara
+A comunicação entre cozinheiros e antendentes deve ser rápida e eficaz.
+O sistema deve ser responsivo em suas entradas/saídas.
+
+
+Atores:
+
+    Atendente de caixa -> Ator principal
+    Cozinheiro -> Ator principal
+    Gerente ->Ator principal.
+    Banco de dados -> Ator de suporte
+
+
+Banco de dados:
+
+    Tabelas: Pedidos, Clientes, Cozinha, Estoque, Cardapio,
+
+
+
+
+

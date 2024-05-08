@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+b3e5bfaa2cbf88c589ac89c4c1ec6dd4 CMakeFiles/Lanchonete_autogen
