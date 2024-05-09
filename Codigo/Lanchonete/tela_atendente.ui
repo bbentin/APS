@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Tela_Atendente</class>
+ <widget class="QWidget" name="Tela_Atendente">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>747</width>
+    <height>549</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="novoPedidoBtn">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>40</y>
+     <width>221</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Novo pedido</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="conferirPedidoBtn">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>40</y>
+     <width>221</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Conferir pedidos abertos</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="fecharPedidoBtn">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>290</y>
+     <width>221</width>
+     <height>181</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Encerrar pedido</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="sairBtn">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>300</y>
+     <width>241</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Sair</string>
+   </property>
+   <property name="autoDefault">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="dadosClientesBtn">
+   <property name="geometry">
+    <rect>
+     <x>510</x>
+     <y>60</y>
+     <width>201</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Clientes</string>
+   </property>
+  </widget>
+  <widget class="QRadioButton" name="radioButton">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>250</y>
+     <width>96</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>RadioButton</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

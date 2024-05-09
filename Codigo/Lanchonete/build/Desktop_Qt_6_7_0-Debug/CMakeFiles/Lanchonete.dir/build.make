@@ -111,11 +111,101 @@ CMakeFiles/Lanchonete.dir/mainwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lanchonete.dir/mainwindow.cpp.s"
 	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/mainwindow.cpp -o CMakeFiles/Lanchonete.dir/mainwindow.cpp.s
 
+CMakeFiles/Lanchonete.dir/tela_atendente.cpp.o: CMakeFiles/Lanchonete.dir/flags.make
+CMakeFiles/Lanchonete.dir/tela_atendente.cpp.o: /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_atendente.cpp
+CMakeFiles/Lanchonete.dir/tela_atendente.cpp.o: CMakeFiles/Lanchonete.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Lanchonete.dir/tela_atendente.cpp.o"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lanchonete.dir/tela_atendente.cpp.o -MF CMakeFiles/Lanchonete.dir/tela_atendente.cpp.o.d -o CMakeFiles/Lanchonete.dir/tela_atendente.cpp.o -c /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_atendente.cpp
+
+CMakeFiles/Lanchonete.dir/tela_atendente.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lanchonete.dir/tela_atendente.cpp.i"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_atendente.cpp > CMakeFiles/Lanchonete.dir/tela_atendente.cpp.i
+
+CMakeFiles/Lanchonete.dir/tela_atendente.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lanchonete.dir/tela_atendente.cpp.s"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_atendente.cpp -o CMakeFiles/Lanchonete.dir/tela_atendente.cpp.s
+
+CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.o: CMakeFiles/Lanchonete.dir/flags.make
+CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.o: /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_cozinheiro.cpp
+CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.o: CMakeFiles/Lanchonete.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.o"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.o -MF CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.o.d -o CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.o -c /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_cozinheiro.cpp
+
+CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.i"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_cozinheiro.cpp > CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.i
+
+CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.s"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_cozinheiro.cpp -o CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.s
+
+CMakeFiles/Lanchonete.dir/tela_gerente.cpp.o: CMakeFiles/Lanchonete.dir/flags.make
+CMakeFiles/Lanchonete.dir/tela_gerente.cpp.o: /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_gerente.cpp
+CMakeFiles/Lanchonete.dir/tela_gerente.cpp.o: CMakeFiles/Lanchonete.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Lanchonete.dir/tela_gerente.cpp.o"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lanchonete.dir/tela_gerente.cpp.o -MF CMakeFiles/Lanchonete.dir/tela_gerente.cpp.o.d -o CMakeFiles/Lanchonete.dir/tela_gerente.cpp.o -c /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_gerente.cpp
+
+CMakeFiles/Lanchonete.dir/tela_gerente.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lanchonete.dir/tela_gerente.cpp.i"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_gerente.cpp > CMakeFiles/Lanchonete.dir/tela_gerente.cpp.i
+
+CMakeFiles/Lanchonete.dir/tela_gerente.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lanchonete.dir/tela_gerente.cpp.s"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_gerente.cpp -o CMakeFiles/Lanchonete.dir/tela_gerente.cpp.s
+
+CMakeFiles/Lanchonete.dir/cardapio.cpp.o: CMakeFiles/Lanchonete.dir/flags.make
+CMakeFiles/Lanchonete.dir/cardapio.cpp.o: /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/cardapio.cpp
+CMakeFiles/Lanchonete.dir/cardapio.cpp.o: CMakeFiles/Lanchonete.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Lanchonete.dir/cardapio.cpp.o"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lanchonete.dir/cardapio.cpp.o -MF CMakeFiles/Lanchonete.dir/cardapio.cpp.o.d -o CMakeFiles/Lanchonete.dir/cardapio.cpp.o -c /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/cardapio.cpp
+
+CMakeFiles/Lanchonete.dir/cardapio.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lanchonete.dir/cardapio.cpp.i"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/cardapio.cpp > CMakeFiles/Lanchonete.dir/cardapio.cpp.i
+
+CMakeFiles/Lanchonete.dir/cardapio.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lanchonete.dir/cardapio.cpp.s"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/cardapio.cpp -o CMakeFiles/Lanchonete.dir/cardapio.cpp.s
+
+CMakeFiles/Lanchonete.dir/estoque.cpp.o: CMakeFiles/Lanchonete.dir/flags.make
+CMakeFiles/Lanchonete.dir/estoque.cpp.o: /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/estoque.cpp
+CMakeFiles/Lanchonete.dir/estoque.cpp.o: CMakeFiles/Lanchonete.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Lanchonete.dir/estoque.cpp.o"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lanchonete.dir/estoque.cpp.o -MF CMakeFiles/Lanchonete.dir/estoque.cpp.o.d -o CMakeFiles/Lanchonete.dir/estoque.cpp.o -c /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/estoque.cpp
+
+CMakeFiles/Lanchonete.dir/estoque.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lanchonete.dir/estoque.cpp.i"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/estoque.cpp > CMakeFiles/Lanchonete.dir/estoque.cpp.i
+
+CMakeFiles/Lanchonete.dir/estoque.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lanchonete.dir/estoque.cpp.s"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/estoque.cpp -o CMakeFiles/Lanchonete.dir/estoque.cpp.s
+
+CMakeFiles/Lanchonete.dir/pedidos.cpp.o: CMakeFiles/Lanchonete.dir/flags.make
+CMakeFiles/Lanchonete.dir/pedidos.cpp.o: /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos.cpp
+CMakeFiles/Lanchonete.dir/pedidos.cpp.o: CMakeFiles/Lanchonete.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Lanchonete.dir/pedidos.cpp.o"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Lanchonete.dir/pedidos.cpp.o -MF CMakeFiles/Lanchonete.dir/pedidos.cpp.o.d -o CMakeFiles/Lanchonete.dir/pedidos.cpp.o -c /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos.cpp
+
+CMakeFiles/Lanchonete.dir/pedidos.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Lanchonete.dir/pedidos.cpp.i"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos.cpp > CMakeFiles/Lanchonete.dir/pedidos.cpp.i
+
+CMakeFiles/Lanchonete.dir/pedidos.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Lanchonete.dir/pedidos.cpp.s"
+	/usr/bin/g++-13 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos.cpp -o CMakeFiles/Lanchonete.dir/pedidos.cpp.s
+
 # Object files for target Lanchonete
 Lanchonete_OBJECTS = \
 "CMakeFiles/Lanchonete.dir/Lanchonete_autogen/mocs_compilation.cpp.o" \
 "CMakeFiles/Lanchonete.dir/main.cpp.o" \
-"CMakeFiles/Lanchonete.dir/mainwindow.cpp.o"
+"CMakeFiles/Lanchonete.dir/mainwindow.cpp.o" \
+"CMakeFiles/Lanchonete.dir/tela_atendente.cpp.o" \
+"CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.o" \
+"CMakeFiles/Lanchonete.dir/tela_gerente.cpp.o" \
+"CMakeFiles/Lanchonete.dir/cardapio.cpp.o" \
+"CMakeFiles/Lanchonete.dir/estoque.cpp.o" \
+"CMakeFiles/Lanchonete.dir/pedidos.cpp.o"
 
 # External object files for target Lanchonete
 Lanchonete_EXTERNAL_OBJECTS =
@@ -123,6 +213,12 @@ Lanchonete_EXTERNAL_OBJECTS =
 Lanchonete: CMakeFiles/Lanchonete.dir/Lanchonete_autogen/mocs_compilation.cpp.o
 Lanchonete: CMakeFiles/Lanchonete.dir/main.cpp.o
 Lanchonete: CMakeFiles/Lanchonete.dir/mainwindow.cpp.o
+Lanchonete: CMakeFiles/Lanchonete.dir/tela_atendente.cpp.o
+Lanchonete: CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.o
+Lanchonete: CMakeFiles/Lanchonete.dir/tela_gerente.cpp.o
+Lanchonete: CMakeFiles/Lanchonete.dir/cardapio.cpp.o
+Lanchonete: CMakeFiles/Lanchonete.dir/estoque.cpp.o
+Lanchonete: CMakeFiles/Lanchonete.dir/pedidos.cpp.o
 Lanchonete: CMakeFiles/Lanchonete.dir/build.make
 Lanchonete: /home/rreyes/Qt/6.7.0/gcc_64/lib/libQt6Widgets.so.6.7.0
 Lanchonete: /home/rreyes/Qt/6.7.0/gcc_64/lib/libQt6Gui.so.6.7.0
@@ -130,7 +226,7 @@ Lanchonete: /home/rreyes/Qt/6.7.0/gcc_64/lib/libQt6Core.so.6.7.0
 Lanchonete: /usr/lib/x86_64-linux-gnu/libGLX.so
 Lanchonete: /usr/lib/x86_64-linux-gnu/libOpenGL.so
 Lanchonete: CMakeFiles/Lanchonete.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Lanchonete"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable Lanchonete"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Lanchonete.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

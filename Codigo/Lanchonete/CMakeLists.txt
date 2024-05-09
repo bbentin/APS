@@ -23,6 +23,12 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(Lanchonete
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        tela_atendente.h tela_atendente.cpp tela_atendente.ui
+        tela_cozinheiro.h tela_cozinheiro.cpp tela_cozinheiro.ui
+        tela_gerente.h tela_gerente.cpp tela_gerente.ui
+        cardapio.h cardapio.cpp cardapio.ui
+        estoque.h estoque.cpp estoque.ui
+        pedidos.h pedidos.cpp pedidos.ui
 
     )
 # Define target properties for Android with Qt 6 as:

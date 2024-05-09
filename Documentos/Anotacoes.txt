@@ -11,11 +11,10 @@ Casos de Uso:
 
     Funcionário cadastrando produtos no estoque. - OK
     Funcionário retirando produtos do estoque. - OK
-    Atendente realizando uma venda. - OK
+    Atendente finalizando um pedido. - OK
     Atendente cadastrando cliente. - OK
-    Funcionário consumindo produtos - OK
-    Funcionário adicionando produtos a um pedido - OK
-    Funcionário removendo de produtos em um pedido. - OK
+    Funcionário realizando um pedido - OK
+    Funcionário alterando um pedido. - OK
     Funcionário cancelando um pedido. - OK
     Usuario verifica dados de um produto. - OK
     Usuário verifica quantidade no estoque. - OK

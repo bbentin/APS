@@ -358,9 +358,45 @@
 	"HEADERS" : 
 	[
 		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/cardapio.h",
+			"MU",
+			"EWIEGA46WW/moc_cardapio.cpp",
+			null
+		],
+		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/estoque.h",
+			"MU",
+			"EWIEGA46WW/moc_estoque.cpp",
+			null
+		],
+		[
 			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos.h",
+			"MU",
+			"EWIEGA46WW/moc_pedidos.cpp",
+			null
+		],
+		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_atendente.h",
+			"MU",
+			"EWIEGA46WW/moc_tela_atendente.cpp",
+			null
+		],
+		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_cozinheiro.h",
+			"MU",
+			"EWIEGA46WW/moc_tela_cozinheiro.cpp",
+			null
+		],
+		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_gerente.h",
+			"MU",
+			"EWIEGA46WW/moc_tela_gerente.cpp",
 			null
 		]
 	],
@@ -424,12 +460,42 @@
 	"SOURCES" : 
 	[
 		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/cardapio.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/estoque.cpp",
+			"MU",
+			null
+		],
+		[
 			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/main.cpp",
 			"MU",
 			null
 		],
 		[
 			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_atendente.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_cozinheiro.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_gerente.cpp",
 			"MU",
 			null
 		]

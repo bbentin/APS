@@ -2,6 +2,11 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QObject>
+
+#include "tela_atendente.h"
+#include "tela_cozinheiro.h"
+#include "tela_gerente.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -17,12 +22,16 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+    virtual void exibir();
+
 private slots:
 
-
-    void on_MainWindow_iconSizeChanged(const QSize &iconSize);
+    void on_acessBtn_clicked();
 
 private:
     Ui::MainWindow *ui;
+    tela_gerente telaG;
+    tela_cozinheiro telaC;
+    Tela_Atendente telaA;
 };
 #endif // MAINWINDOW_H

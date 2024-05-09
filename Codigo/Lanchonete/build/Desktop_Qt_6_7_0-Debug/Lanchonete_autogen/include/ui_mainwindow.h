@@ -12,20 +12,27 @@
 #include <QtCore/QVariant>
 #include <QtGui/QAction>
 #include <QtWidgets/QApplication>
+#include <QtWidgets/QLabel>
 #include <QtWidgets/QLineEdit>
 #include <QtWidgets/QMainWindow>
 #include <QtWidgets/QMenu>
 #include <QtWidgets/QMenuBar>
 #include <QtWidgets/QPushButton>
 #include <QtWidgets/QStatusBar>
+#include <QtWidgets/QWidget>
 
 QT_BEGIN_NAMESPACE
 
 class Ui_MainWindow
 {
 public:
-    QLineEdit *lineEdit;
-    QPushButton *pushButton;
+    QWidget *centralwidget;
+    QWidget *accessWidget;
+    QLineEdit *userEdit;
+    QLineEdit *psswdEdit;
+    QLabel *label;
+    QLabel *label_2;
+    QPushButton *acessBtn;
     QMenuBar *menubar;
     QMenu *menuSistema;
     QMenu *menuEdit;
@@ -37,14 +44,27 @@ public:
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName("MainWindow");
         MainWindow->resize(798, 600);
-        centralwidget = new Paineis(MainWindow);
+        centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName("centralwidget");
-        lineEdit = new QLineEdit(centralwidget);
-        lineEdit->setObjectName("lineEdit");
-        lineEdit->setGeometry(QRect(330, 360, 301, 101));
-        pushButton = new QPushButton(centralwidget);
-        pushButton->setObjectName("pushButton");
-        pushButton->setGeometry(QRect(180, 120, 311, 131));
+        accessWidget = new QWidget(centralwidget);
+        accessWidget->setObjectName("accessWidget");
+        accessWidget->setEnabled(true);
+        accessWidget->setGeometry(QRect(240, 190, 321, 161));
+        userEdit = new QLineEdit(accessWidget);
+        userEdit->setObjectName("userEdit");
+        userEdit->setGeometry(QRect(142, 30, 141, 25));
+        psswdEdit = new QLineEdit(accessWidget);
+        psswdEdit->setObjectName("psswdEdit");
+        psswdEdit->setGeometry(QRect(142, 80, 141, 25));
+        label = new QLabel(accessWidget);
+        label->setObjectName("label");
+        label->setGeometry(QRect(40, 30, 54, 17));
+        label_2 = new QLabel(accessWidget);
+        label_2->setObjectName("label_2");
+        label_2->setGeometry(QRect(40, 80, 39, 17));
+        acessBtn = new QPushButton(accessWidget);
+        acessBtn->setObjectName("acessBtn");
+        acessBtn->setGeometry(QRect(180, 120, 80, 25));
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName("menubar");
@@ -72,7 +92,9 @@ public:
     void retranslateUi(QMainWindow *MainWindow)
     {
         MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "MainWindow", nullptr));
-        pushButton->setText(QCoreApplication::translate("MainWindow", "PushButton", nullptr));
+        label->setText(QCoreApplication::translate("MainWindow", "Usu\303\241rio:", nullptr));
+        label_2->setText(QCoreApplication::translate("MainWindow", "Senha:", nullptr));
+        acessBtn->setText(QCoreApplication::translate("MainWindow", "Acessar", nullptr));
         menuSistema->setTitle(QCoreApplication::translate("MainWindow", "File", nullptr));
         menuEdit->setTitle(QCoreApplication::translate("MainWindow", "Edit", nullptr));
         menuView->setTitle(QCoreApplication::translate("MainWindow", "View", nullptr));

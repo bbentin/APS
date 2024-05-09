@@ -1,5 +1,9 @@
 /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/mainwindow.h \
   /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/moc_predefs.h \
+  /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_atendente.h \
+  /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_cozinheiro.h \
+  /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_gerente.h \
+  /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/QObject \
   /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/q20functional.h \
   /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/q20memory.h \
   /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/q20type_traits.h \
@@ -142,6 +146,7 @@
   /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qtransform.h \
   /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qwindowdefs.h \
   /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QMainWindow \
+  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QWidget \
   /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qmainwindow.h \
   /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qsizepolicy.h \
   /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qtabwidget.h \

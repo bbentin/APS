@@ -371,6 +371,13 @@ CMakeFiles/Lanchonete.dir/mainwindow.cpp.o: \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qcursor.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qbitmap.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qtabwidget.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/QObject \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qobject.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_atendente.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QWidget \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qwidget.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_cozinheiro.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_gerente.h \
  /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/include/./ui_mainwindow.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/QVariant \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qvariant.h \
@@ -389,12 +396,16 @@ CMakeFiles/Lanchonete.dir/mainwindow.cpp.o: \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qinputmethod.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qlocale.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qguiapplication_platform.h \
- /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QLineEdit \
- /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qlineedit.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QLabel \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qlabel.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qframe.h \
- /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qtextcursor.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qpicture.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qiodevice.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qtextdocument.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qurl.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QLineEdit \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qlineedit.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qtextcursor.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qtextformat.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qpen.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qtextoption.h \
@@ -408,4 +419,5 @@ CMakeFiles/Lanchonete.dir/mainwindow.cpp.o: \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qpushbutton.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractbutton.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QStatusBar \
- /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qstatusbar.h
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qstatusbar.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QWidget

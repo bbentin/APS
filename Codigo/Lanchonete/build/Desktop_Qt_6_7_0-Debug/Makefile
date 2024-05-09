@@ -211,6 +211,54 @@ Lanchonete_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/Lanchonete_autogen/mocs_compilation.cpp.s
 .PHONY : Lanchonete_autogen/mocs_compilation.cpp.s
 
+cardapio.o: cardapio.cpp.o
+.PHONY : cardapio.o
+
+# target to build an object file
+cardapio.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/cardapio.cpp.o
+.PHONY : cardapio.cpp.o
+
+cardapio.i: cardapio.cpp.i
+.PHONY : cardapio.i
+
+# target to preprocess a source file
+cardapio.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/cardapio.cpp.i
+.PHONY : cardapio.cpp.i
+
+cardapio.s: cardapio.cpp.s
+.PHONY : cardapio.s
+
+# target to generate assembly for a file
+cardapio.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/cardapio.cpp.s
+.PHONY : cardapio.cpp.s
+
+estoque.o: estoque.cpp.o
+.PHONY : estoque.o
+
+# target to build an object file
+estoque.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/estoque.cpp.o
+.PHONY : estoque.cpp.o
+
+estoque.i: estoque.cpp.i
+.PHONY : estoque.i
+
+# target to preprocess a source file
+estoque.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/estoque.cpp.i
+.PHONY : estoque.cpp.i
+
+estoque.s: estoque.cpp.s
+.PHONY : estoque.s
+
+# target to generate assembly for a file
+estoque.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/estoque.cpp.s
+.PHONY : estoque.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -259,6 +307,102 @@ mainwindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
+pedidos.o: pedidos.cpp.o
+.PHONY : pedidos.o
+
+# target to build an object file
+pedidos.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/pedidos.cpp.o
+.PHONY : pedidos.cpp.o
+
+pedidos.i: pedidos.cpp.i
+.PHONY : pedidos.i
+
+# target to preprocess a source file
+pedidos.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/pedidos.cpp.i
+.PHONY : pedidos.cpp.i
+
+pedidos.s: pedidos.cpp.s
+.PHONY : pedidos.s
+
+# target to generate assembly for a file
+pedidos.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/pedidos.cpp.s
+.PHONY : pedidos.cpp.s
+
+tela_atendente.o: tela_atendente.cpp.o
+.PHONY : tela_atendente.o
+
+# target to build an object file
+tela_atendente.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/tela_atendente.cpp.o
+.PHONY : tela_atendente.cpp.o
+
+tela_atendente.i: tela_atendente.cpp.i
+.PHONY : tela_atendente.i
+
+# target to preprocess a source file
+tela_atendente.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/tela_atendente.cpp.i
+.PHONY : tela_atendente.cpp.i
+
+tela_atendente.s: tela_atendente.cpp.s
+.PHONY : tela_atendente.s
+
+# target to generate assembly for a file
+tela_atendente.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/tela_atendente.cpp.s
+.PHONY : tela_atendente.cpp.s
+
+tela_cozinheiro.o: tela_cozinheiro.cpp.o
+.PHONY : tela_cozinheiro.o
+
+# target to build an object file
+tela_cozinheiro.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.o
+.PHONY : tela_cozinheiro.cpp.o
+
+tela_cozinheiro.i: tela_cozinheiro.cpp.i
+.PHONY : tela_cozinheiro.i
+
+# target to preprocess a source file
+tela_cozinheiro.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.i
+.PHONY : tela_cozinheiro.cpp.i
+
+tela_cozinheiro.s: tela_cozinheiro.cpp.s
+.PHONY : tela_cozinheiro.s
+
+# target to generate assembly for a file
+tela_cozinheiro.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.s
+.PHONY : tela_cozinheiro.cpp.s
+
+tela_gerente.o: tela_gerente.cpp.o
+.PHONY : tela_gerente.o
+
+# target to build an object file
+tela_gerente.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/tela_gerente.cpp.o
+.PHONY : tela_gerente.cpp.o
+
+tela_gerente.i: tela_gerente.cpp.i
+.PHONY : tela_gerente.i
+
+# target to preprocess a source file
+tela_gerente.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/tela_gerente.cpp.i
+.PHONY : tela_gerente.cpp.i
+
+tela_gerente.s: tela_gerente.cpp.s
+.PHONY : tela_gerente.s
+
+# target to generate assembly for a file
+tela_gerente.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/tela_gerente.cpp.s
+.PHONY : tela_gerente.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -276,12 +420,30 @@ help:
 	@echo "... Lanchonete_autogen/mocs_compilation.o"
 	@echo "... Lanchonete_autogen/mocs_compilation.i"
 	@echo "... Lanchonete_autogen/mocs_compilation.s"
+	@echo "... cardapio.o"
+	@echo "... cardapio.i"
+	@echo "... cardapio.s"
+	@echo "... estoque.o"
+	@echo "... estoque.i"
+	@echo "... estoque.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
 	@echo "... mainwindow.o"
 	@echo "... mainwindow.i"
 	@echo "... mainwindow.s"
+	@echo "... pedidos.o"
+	@echo "... pedidos.i"
+	@echo "... pedidos.s"
+	@echo "... tela_atendente.o"
+	@echo "... tela_atendente.i"
+	@echo "... tela_atendente.s"
+	@echo "... tela_cozinheiro.o"
+	@echo "... tela_cozinheiro.i"
+	@echo "... tela_cozinheiro.s"
+	@echo "... tela_gerente.o"
+	@echo "... tela_gerente.i"
+	@echo "... tela_gerente.s"
 .PHONY : help
 
 

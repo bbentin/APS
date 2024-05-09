@@ -1,10 +1,10 @@
 CMakeFiles/Lanchonete.dir/Lanchonete_autogen/mocs_compilation.cpp.o: \
  /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/mocs_compilation.cpp \
  /usr/include/stdc-predef.h \
- /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/moc_mainwindow.cpp \
- /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/../../../../mainwindow.h \
- /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QMainWindow \
- /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qmainwindow.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/moc_cardapio.cpp \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/../../../../cardapio.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QWidget \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qwidget.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qtwidgetsglobal.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qtguiglobal.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qglobal.h \
@@ -162,7 +162,6 @@ CMakeFiles/Lanchonete.dir/Lanchonete_autogen/mocs_compilation.cpp.o: \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qtguiexports.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qtwidgets-config.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qtwidgetsexports.h \
- /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qwidget.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qwindowdefs.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qobjectdefs.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qnamespace.h \
@@ -371,5 +370,25 @@ CMakeFiles/Lanchonete.dir/Lanchonete_autogen/mocs_compilation.cpp.o: \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qsizepolicy.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qcursor.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qbitmap.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qtmochelpers.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/moc_estoque.cpp \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/../../../../estoque.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/moc_mainwindow.cpp \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/../../../../mainwindow.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QMainWindow \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qmainwindow.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qwidget.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qtabwidget.h \
- /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qtmochelpers.h
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/QObject \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qobject.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/../../../../tela_atendente.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/../../../../tela_cozinheiro.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/../../../../tela_gerente.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/moc_pedidos.cpp \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/../../../../pedidos.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/moc_tela_atendente.cpp \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/../../../../tela_atendente.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/moc_tela_cozinheiro.cpp \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/../../../../tela_cozinheiro.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/moc_tela_gerente.cpp \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/EWIEGA46WW/../../../../tela_gerente.h

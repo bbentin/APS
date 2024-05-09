@@ -1,4 +1,5 @@
 #include "mainwindow.h"
+#include "tela_gerente.h"
 
 #include <QApplication>
 
