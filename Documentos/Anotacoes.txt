@@ -9,19 +9,19 @@ Apresentação do projeto:
 
 Casos de Uso:
 
-    Usuário realiznado pedido - OK
-    Usuário finalizando um pedido. - OK
-    Usuário cadastrando cliente - OK
+
+    Gerente adicionando funcionário - OK
+    Gerente removendo funcionário
+    Gerente abre o caixa -
+    Gerente fechando o caixa -
+    Gerente cadastrando item no estoque - OK
+    Usuário alterando o estoque - OK
+    Usuário realizando pedido - OK
     Usuário alterando um pedido. - OK
+    Usuário encerrando um pedido. - OK
+    Usuário cadastrando cliente - OK
     Usuário cancelando um pedido. - OK
-    Usuario verifica dados de um produto. - OK
-    Usuário verifica quantidade no estoque. - OK
-    Gerente abre o caixa do dia - OK
-    Gerente fecha o caixa do dia. - OK
-    Cadastro de novo funcionario. - OK
-    Remoção de funcionario. - OK
-    Cozinheiro informando que o pedido está pronto. - OK
-    Registrar pedido realizado - OK
+    Cozinheiro registrando item concluido - OK
     
 Requisitos Funcionais:
     
