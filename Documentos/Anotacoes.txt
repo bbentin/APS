@@ -9,13 +9,11 @@ Apresentação do projeto:
 
 Casos de Uso:
 
-    Funcionário cadastrando produtos no estoque. - OK
-    Funcionário retirando produtos do estoque. - OK
-    Atendente finalizando um pedido. - OK
-    Atendente cadastrando cliente. - OK
-    Funcionário realizando um pedido - OK
-    Funcionário alterando um pedido. - OK
-    Funcionário cancelando um pedido. - OK
+    Usuário realiznado pedido - OK
+    Usuário finalizando um pedido. - OK
+    Usuário cadastrando cliente - OK
+    Usuário alterando um pedido. - OK
+    Usuário cancelando um pedido. - OK
     Usuario verifica dados de um produto. - OK
     Usuário verifica quantidade no estoque. - OK
     Gerente abre o caixa do dia - OK
