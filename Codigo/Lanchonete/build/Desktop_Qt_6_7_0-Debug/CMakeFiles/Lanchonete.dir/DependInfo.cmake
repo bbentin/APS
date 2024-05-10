@@ -10,10 +10,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/mocs_compilation.cpp" "CMakeFiles/Lanchonete.dir/Lanchonete_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/Lanchonete.dir/Lanchonete_autogen/mocs_compilation.cpp.o.d"
   "/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/cardapio.cpp" "CMakeFiles/Lanchonete.dir/cardapio.cpp.o" "gcc" "CMakeFiles/Lanchonete.dir/cardapio.cpp.o.d"
+  "/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/clientes.cpp" "CMakeFiles/Lanchonete.dir/clientes.cpp.o" "gcc" "CMakeFiles/Lanchonete.dir/clientes.cpp.o.d"
   "/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/estoque.cpp" "CMakeFiles/Lanchonete.dir/estoque.cpp.o" "gcc" "CMakeFiles/Lanchonete.dir/estoque.cpp.o.d"
+  "/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/funcionarios.cpp" "CMakeFiles/Lanchonete.dir/funcionarios.cpp.o" "gcc" "CMakeFiles/Lanchonete.dir/funcionarios.cpp.o.d"
   "/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/main.cpp" "CMakeFiles/Lanchonete.dir/main.cpp.o" "gcc" "CMakeFiles/Lanchonete.dir/main.cpp.o.d"
   "/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/mainwindow.cpp" "CMakeFiles/Lanchonete.dir/mainwindow.cpp.o" "gcc" "CMakeFiles/Lanchonete.dir/mainwindow.cpp.o.d"
   "/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos.cpp" "CMakeFiles/Lanchonete.dir/pedidos.cpp.o" "gcc" "CMakeFiles/Lanchonete.dir/pedidos.cpp.o.d"
+  "/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos_cozinheiro.cpp" "CMakeFiles/Lanchonete.dir/pedidos_cozinheiro.cpp.o" "gcc" "CMakeFiles/Lanchonete.dir/pedidos_cozinheiro.cpp.o.d"
   "/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_atendente.cpp" "CMakeFiles/Lanchonete.dir/tela_atendente.cpp.o" "gcc" "CMakeFiles/Lanchonete.dir/tela_atendente.cpp.o.d"
   "/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_cozinheiro.cpp" "CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.o" "gcc" "CMakeFiles/Lanchonete.dir/tela_cozinheiro.cpp.o.d"
   "/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_gerente.cpp" "CMakeFiles/Lanchonete.dir/tela_gerente.cpp.o" "gcc" "CMakeFiles/Lanchonete.dir/tela_gerente.cpp.o.d"

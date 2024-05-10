@@ -235,6 +235,30 @@ cardapio.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/cardapio.cpp.s
 .PHONY : cardapio.cpp.s
 
+clientes.o: clientes.cpp.o
+.PHONY : clientes.o
+
+# target to build an object file
+clientes.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/clientes.cpp.o
+.PHONY : clientes.cpp.o
+
+clientes.i: clientes.cpp.i
+.PHONY : clientes.i
+
+# target to preprocess a source file
+clientes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/clientes.cpp.i
+.PHONY : clientes.cpp.i
+
+clientes.s: clientes.cpp.s
+.PHONY : clientes.s
+
+# target to generate assembly for a file
+clientes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/clientes.cpp.s
+.PHONY : clientes.cpp.s
+
 estoque.o: estoque.cpp.o
 .PHONY : estoque.o
 
@@ -258,6 +282,30 @@ estoque.s: estoque.cpp.s
 estoque.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/estoque.cpp.s
 .PHONY : estoque.cpp.s
+
+funcionarios.o: funcionarios.cpp.o
+.PHONY : funcionarios.o
+
+# target to build an object file
+funcionarios.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/funcionarios.cpp.o
+.PHONY : funcionarios.cpp.o
+
+funcionarios.i: funcionarios.cpp.i
+.PHONY : funcionarios.i
+
+# target to preprocess a source file
+funcionarios.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/funcionarios.cpp.i
+.PHONY : funcionarios.cpp.i
+
+funcionarios.s: funcionarios.cpp.s
+.PHONY : funcionarios.s
+
+# target to generate assembly for a file
+funcionarios.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/funcionarios.cpp.s
+.PHONY : funcionarios.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -330,6 +378,30 @@ pedidos.s: pedidos.cpp.s
 pedidos.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/pedidos.cpp.s
 .PHONY : pedidos.cpp.s
+
+pedidos_cozinheiro.o: pedidos_cozinheiro.cpp.o
+.PHONY : pedidos_cozinheiro.o
+
+# target to build an object file
+pedidos_cozinheiro.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/pedidos_cozinheiro.cpp.o
+.PHONY : pedidos_cozinheiro.cpp.o
+
+pedidos_cozinheiro.i: pedidos_cozinheiro.cpp.i
+.PHONY : pedidos_cozinheiro.i
+
+# target to preprocess a source file
+pedidos_cozinheiro.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/pedidos_cozinheiro.cpp.i
+.PHONY : pedidos_cozinheiro.cpp.i
+
+pedidos_cozinheiro.s: pedidos_cozinheiro.cpp.s
+.PHONY : pedidos_cozinheiro.s
+
+# target to generate assembly for a file
+pedidos_cozinheiro.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Lanchonete.dir/build.make CMakeFiles/Lanchonete.dir/pedidos_cozinheiro.cpp.s
+.PHONY : pedidos_cozinheiro.cpp.s
 
 tela_atendente.o: tela_atendente.cpp.o
 .PHONY : tela_atendente.o
@@ -423,9 +495,15 @@ help:
 	@echo "... cardapio.o"
 	@echo "... cardapio.i"
 	@echo "... cardapio.s"
+	@echo "... clientes.o"
+	@echo "... clientes.i"
+	@echo "... clientes.s"
 	@echo "... estoque.o"
 	@echo "... estoque.i"
 	@echo "... estoque.s"
+	@echo "... funcionarios.o"
+	@echo "... funcionarios.i"
+	@echo "... funcionarios.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
@@ -435,6 +513,9 @@ help:
 	@echo "... pedidos.o"
 	@echo "... pedidos.i"
 	@echo "... pedidos.s"
+	@echo "... pedidos_cozinheiro.o"
+	@echo "... pedidos_cozinheiro.i"
+	@echo "... pedidos_cozinheiro.s"
 	@echo "... tela_atendente.o"
 	@echo "... tela_atendente.i"
 	@echo "... tela_atendente.s"

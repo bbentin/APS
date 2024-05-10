@@ -385,4 +385,8 @@ CMakeFiles/Lanchonete.dir/cardapio.cpp.o: \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qinputmethod.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qlocale.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qguiapplication_platform.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QGroupBox \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qgroupbox.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qframe.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qwidget.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QWidget

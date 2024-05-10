@@ -7,6 +7,13 @@
 #include "tela_atendente.h"
 #include "tela_cozinheiro.h"
 #include "tela_gerente.h"
+#include "cardapio.h"
+#include "pedidos.h"
+#include "estoque.h"
+#include "pedidos_cozinheiro.h"
+#include "funcionarios.h"
+#include "clientes.h"
+
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -22,7 +29,6 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
-    virtual void exibir();
 
 private slots:
 
@@ -30,7 +36,7 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
-    tela_gerente telaG;
+    Clientes telaG;
     tela_cozinheiro telaC;
     Tela_Atendente telaA;
 };

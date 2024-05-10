@@ -29,6 +29,9 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         cardapio.h cardapio.cpp cardapio.ui
         estoque.h estoque.cpp estoque.ui
         pedidos.h pedidos.cpp pedidos.ui
+        pedidos_cozinheiro.h pedidos_cozinheiro.cpp pedidos_cozinheiro.ui
+        funcionarios.h funcionarios.cpp funcionarios.ui
+        clientes.h clientes.cpp clientes.ui
 
     )
 # Define target properties for Android with Qt 6 as:

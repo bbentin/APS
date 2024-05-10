@@ -385,4 +385,42 @@ CMakeFiles/Lanchonete.dir/estoque.cpp.o: \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qinputmethod.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qlocale.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qguiapplication_platform.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QFrame \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qframe.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qwidget.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QLabel \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qlabel.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qframe.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qpicture.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qiodevice.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qtextdocument.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qurl.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QLineEdit \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qlineedit.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qtextcursor.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qtextformat.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qpen.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qtextoption.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QListView \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qlistview.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemview.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractscrollarea.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qabstractitemmodel.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qitemselectionmodel.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractitemdelegate.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qstyleoption.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractspinbox.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtGui/qvalidator.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qregularexpression.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qslider.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractslider.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qstyle.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qtabbar.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qtabwidget.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qrubberband.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QPushButton \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qpushbutton.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qabstractbutton.h \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QRadioButton \
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qradiobutton.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QWidget

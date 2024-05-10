@@ -6,7 +6,7 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow),telaC(this),telaG(this),telaA(this)
 {
     ui->setupUi(this);
-    telaC.hide(); telaA.hide(); telaG.hide();
+    telaC.hide(); telaA.hide(); telaG.show(); ui->accessWidget->hide();
 
 }
 
@@ -36,9 +36,4 @@ void MainWindow::on_acessBtn_clicked()
     default:
         break;
     }
-}
-
-void MainWindow::mostrar(){
-    show();
-    ui->accessWidget->show();
 }

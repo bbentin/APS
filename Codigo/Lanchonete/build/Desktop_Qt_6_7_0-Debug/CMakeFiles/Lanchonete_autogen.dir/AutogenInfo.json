@@ -364,9 +364,21 @@
 			null
 		],
 		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/clientes.h",
+			"MU",
+			"EWIEGA46WW/moc_clientes.cpp",
+			null
+		],
+		[
 			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/estoque.h",
 			"MU",
 			"EWIEGA46WW/moc_estoque.cpp",
+			null
+		],
+		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/funcionarios.h",
+			"MU",
+			"EWIEGA46WW/moc_funcionarios.cpp",
 			null
 		],
 		[
@@ -379,6 +391,12 @@
 			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos.h",
 			"MU",
 			"EWIEGA46WW/moc_pedidos.cpp",
+			null
+		],
+		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos_cozinheiro.h",
+			"MU",
+			"EWIEGA46WW/moc_pedidos_cozinheiro.cpp",
 			null
 		],
 		[
@@ -465,7 +483,17 @@
 			null
 		],
 		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/clientes.cpp",
+			"MU",
+			null
+		],
+		[
 			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/estoque.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/funcionarios.cpp",
 			"MU",
 			null
 		],
@@ -481,6 +509,11 @@
 		],
 		[
 			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos_cozinheiro.cpp",
 			"MU",
 			null
 		],

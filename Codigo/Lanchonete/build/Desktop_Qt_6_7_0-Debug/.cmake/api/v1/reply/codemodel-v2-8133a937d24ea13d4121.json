@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-f3fb296e763e96e436ba.json",
+					"jsonFile" : "directory-.-Debug-d6c744487c91f187f20a.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -42,7 +42,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Lanchonete::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Lanchonete-Debug-4e517cd37617aeb134ea.json",
+					"jsonFile" : "target-Lanchonete-Debug-6586544cb37c7daca535.json",
 					"name" : "Lanchonete",
 					"projectIndex" : 0
 				},

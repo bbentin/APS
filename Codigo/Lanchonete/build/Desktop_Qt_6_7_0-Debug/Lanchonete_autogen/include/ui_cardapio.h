@@ -11,6 +11,7 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
+#include <QtWidgets/QGroupBox>
 #include <QtWidgets/QWidget>
 
 QT_BEGIN_NAMESPACE
@@ -18,12 +19,16 @@ QT_BEGIN_NAMESPACE
 class Ui_Cardapio
 {
 public:
+    QGroupBox *groupBox;
 
     void setupUi(QWidget *Cardapio)
     {
         if (Cardapio->objectName().isEmpty())
             Cardapio->setObjectName("Cardapio");
-        Cardapio->resize(400, 300);
+        Cardapio->resize(820, 618);
+        groupBox = new QGroupBox(Cardapio);
+        groupBox->setObjectName("groupBox");
+        groupBox->setGeometry(QRect(30, 80, 241, 341));
 
         retranslateUi(Cardapio);
 
@@ -33,6 +38,7 @@ public:
     void retranslateUi(QWidget *Cardapio)
     {
         Cardapio->setWindowTitle(QCoreApplication::translate("Cardapio", "Form", nullptr));
+        groupBox->setTitle(QCoreApplication::translate("Cardapio", "GroupBox", nullptr));
     } // retranslateUi
 
 };

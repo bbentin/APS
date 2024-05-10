@@ -1,9 +1,12 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Lanchonete_autogen"
   "Lanchonete_autogen/include/ui_cardapio.h"
+  "Lanchonete_autogen/include/ui_clientes.h"
   "Lanchonete_autogen/include/ui_estoque.h"
+  "Lanchonete_autogen/include/ui_funcionarios.h"
   "Lanchonete_autogen/include/ui_mainwindow.h"
   "Lanchonete_autogen/include/ui_pedidos.h"
+  "Lanchonete_autogen/include/ui_pedidos_cozinheiro.h"
   "Lanchonete_autogen/include/ui_tela_atendente.h"
   "Lanchonete_autogen/include/ui_tela_cozinheiro.h"
   "Lanchonete_autogen/include/ui_tela_gerente.h"

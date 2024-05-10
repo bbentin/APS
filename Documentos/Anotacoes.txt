@@ -7,12 +7,7 @@ Apresentação do projeto:
     O projeto deve criar um sistema de logística e auxílio para uma lanchonete e seus trabalhadores. Substituindo o antigo sistema de pedidos em papel e o inexistente controle de estoque.
 
 
-Casos de Uso:
-
-
-
-
-
+Casos de Uso: OK
 
     Usuário cadastrando cliente -
     Gerente alterando o caixa  - OK

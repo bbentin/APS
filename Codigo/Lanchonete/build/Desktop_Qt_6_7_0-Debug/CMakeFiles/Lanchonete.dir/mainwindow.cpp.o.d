@@ -378,6 +378,12 @@ CMakeFiles/Lanchonete.dir/mainwindow.cpp.o: \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qwidget.h \
  /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_cozinheiro.h \
  /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_gerente.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/cardapio.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/estoque.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos_cozinheiro.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/funcionarios.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/clientes.h \
  /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/build/Desktop_Qt_6_7_0-Debug/Lanchonete_autogen/include/./ui_mainwindow.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/QVariant \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qvariant.h \

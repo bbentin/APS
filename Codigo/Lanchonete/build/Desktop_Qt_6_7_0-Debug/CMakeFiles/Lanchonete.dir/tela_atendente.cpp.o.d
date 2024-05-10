@@ -391,4 +391,5 @@ CMakeFiles/Lanchonete.dir/tela_atendente.cpp.o: \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qwidget.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QRadioButton \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qradiobutton.h \
- /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QWidget
+ /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QWidget \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/cardapio.h

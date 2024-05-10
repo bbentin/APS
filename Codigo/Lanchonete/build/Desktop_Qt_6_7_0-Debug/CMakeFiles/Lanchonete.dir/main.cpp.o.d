@@ -378,6 +378,12 @@ CMakeFiles/Lanchonete.dir/main.cpp.o: \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qwidget.h \
  /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_cozinheiro.h \
  /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/tela_gerente.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/cardapio.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/estoque.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/pedidos_cozinheiro.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/funcionarios.h \
+ /home/rreyes/Documentos/Faculdade/2024-1/Analise_Projeto_Sistemas/Projeto/Codigo/Lanchonete/clientes.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/QApplication \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtWidgets/qapplication.h \
  /home/rreyes/Qt/6.7.0/gcc_64/include/QtCore/qcoreapplication.h \
